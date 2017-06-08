@@ -1,0 +1,18 @@
+Humans come in from edge of screen.
+Pylon in center turn humans into monsters. 1 human =10 monsters.
+
+Monsters turn humans into monsters at same exchange rate.
+
+Pylons can turn at edge turn 1 monster a minute into anti monster with stamina counter ish.  Antimonster starts at 6 . If it bites a monster, turns into Antimonster with counter of 5.  First monster down to 5.  At zero disappears.
+
+What does it look like?????
+
+First step:  Spawn one human at edge of map. Have human wander randomly.
+
+2:  Multiple humans spawn from multiple areas of map, always edge. 
+
+3: Pylon in center. Turns humans within radius into 10 monsters.
+
+4:  monsters chase humans.   humans flee monsters. 
+
+5: when monster close to human, human turns to 10 monsters.
